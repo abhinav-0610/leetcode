@@ -43,4 +43,12 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhinav-0610/leetcode/tree/master/0064-minimum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhinav-0610/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhinav-0610/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
